@@ -1,0 +1,9 @@
+avestruz
+tigre
+girafa
+elefante
+macaco
+tubarao
+baleia
+peixe
+cobra
